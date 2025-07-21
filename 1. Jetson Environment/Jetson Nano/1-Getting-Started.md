@@ -13,6 +13,8 @@
 sudo apt-get update
 sudo apt-get -y upgrade
 sudo apt install curl
+sudo apt-get install git cmake libpython3-dev python3-numpy
+sudo apt-get install gedit
 ```
 
 ### b. Python Setup
