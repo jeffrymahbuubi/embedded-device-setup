@@ -24,4 +24,6 @@ A collection of notes how to setup Embedded Devices for Development
       - [Initial Setup Guide](https://www.jetson-ai-lab.com/initial_setup_jon.html)
       - [Firmware 32.x.x to 36.4.x Update Guide](https://docs.nvidia.com/jetson/archives/r36.3/DeveloperGuide/SD/FlashingSupport.html#updating-jetson-orin-nano-devkit-from-jetpack-5-to-jetpack-6)
 
+2. Raspberry Pi
+   - [Raspberry Pi Documentations](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 
